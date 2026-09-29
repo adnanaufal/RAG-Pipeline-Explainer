@@ -1,0 +1,12 @@
+{
+  "name": "rag-pipeline-explainer",
+  "version": "1.0.0",
+  "description": "Inside a 100,000-document RAG knowledge base: an animated walkthrough (Steps 1-12)",
+  "scripts": {
+    "start": "npx serve -l 8080 .",
+    "dev": "npx serve -l 8080 ."
+  },
+  "keywords": ["rag", "explainer", "pipeline", "interactive"],
+  "author": "Ardya Dipta Nandaviri",
+  "license": "ISC"
+}
